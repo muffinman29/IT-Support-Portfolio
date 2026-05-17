@@ -57,3 +57,6 @@ This repository contains the contents for five IT projects.
 
 ## Capturing and Filtering HTTP
 ![Capturing HTTP](/Wireshark-Network-Analysis/HTTP.png)
+
+# Powershell Automation
+Created a script and an ouput file. Both are located in the Powershell-Automation folder.
