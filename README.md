@@ -5,8 +5,8 @@ This repository contains the contents for five IT projects.
 # HelpDesk Ticket Simulation
 
 ## Help Desk Ticket Comments and Resolution
-![Comments 1](/HelpDesk-Ticket-Sim/Comments1.png)
 ![Comments 2](/HelpDesk-Ticket-Sim/Comments2.png)
+![Comments 1](/HelpDesk-Ticket-Sim/Comments1.png)
 
 # Home Lab
 # Windows Home Lab
@@ -43,3 +43,17 @@ This repository contains the contents for five IT projects.
 ## Setup SSH
 ![Setup SSH 1](/Home-Lab/Linux%20Home%20Lab/Setup-ssh1.png)
 ![Setup SSH 2](/Home-Lab/Linux%20Home%20Lab/Setup-ssh2.png)
+
+# Wireshark Network Analysis
+
+## Capturing All Traffic
+![Capturing All Traffic](/Wireshark-Network-Analysis/Wireshark%20Capturing%20All.png)
+
+## Capturing and Filtering by ARP
+![Capturing ARP](/Wireshark-Network-Analysis/ARP.png)
+
+## Capturing and Filtering by DNS
+![Capturing DNS](/Wireshark-Network-Analysis/DNS%20Lookups.png)
+
+## Capturing and Filtering HTTP
+![Capturing HTTP](/Wireshark-Network-Analysis/HTTP.png)
